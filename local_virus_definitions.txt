@@ -1,0 +1,2 @@
+known_virus_hash_1
+known_virus_hash_2
