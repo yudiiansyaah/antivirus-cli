@@ -54,7 +54,7 @@ sudo dnf install python3-venv  # For Fedora
 1. Clone the repository:
    ```bash
    git clone https://github.com/yudiiansyaah/antivirus-cli.git
-   cd antivirus_tool
+   cd antivirus-cli
    ```
 
 2. Create and activate a virtual environment:
