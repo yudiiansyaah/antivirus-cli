@@ -7,7 +7,7 @@ setup (
     description="An open-source antivirus tool for scanning and detecting malicious file.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yudiiansyaah/antivirus",
+    url="https://github.com/yudiiansyaah/antivirus-cli",
     packages=find_packages(),
     install_requires=[
         "magic",
