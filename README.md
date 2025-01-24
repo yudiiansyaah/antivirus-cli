@@ -73,7 +73,12 @@ sudo dnf install python3-venv  # For Fedora
    ```bash
    pip install -r requirements.txt
    ```
-
+   
+- **Note**: To install libraries such as ``requests``, ``pyfiglet``, and ``magic``, you can the follow steps below:
+  ``` Ubuntu/Kali Linux
+  sudo apt install python3-requests python3-pyfiglet python3-magic
+  ```
+  
 ### Running the Tool
 Run the `main.py` file to use the tool:
 ```bash
