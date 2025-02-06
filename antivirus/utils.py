@@ -1,7 +1,6 @@
 import hashlib
 
 def get_file_hashes(file_path):
-    """ Generate the hash of the file to check against virus definitions. """
     hash_sha256 = hashlib.sha256()
     try:
         with open(file_path, 'rb') as file:
