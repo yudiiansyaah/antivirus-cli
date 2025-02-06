@@ -10,7 +10,6 @@ def main():
     os_platform = platform.system()
     print(f"Running on {os_platform}!\n")
 
-    # Main menu
     while True:
         print("Options:")
         print("1. Full device scan")
