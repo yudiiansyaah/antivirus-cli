@@ -23,7 +23,6 @@ def display_banner():
     print(lolcat_banner)
     print(lolcat_message)
 
-    # OS Detection
     os_platform = platform.system()
 
     if os_platform == "Windows":
